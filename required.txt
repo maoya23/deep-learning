@@ -1,0 +1,11 @@
+numpy
+padas 
+matplotlib
+pytorch
+optuna
+einops
+sklearn 
+
+timm  code : conda install -c conda-forge timm
+
+何もconda環境で構築

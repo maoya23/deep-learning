@@ -8,4 +8,8 @@
 !required.txt
 !test_cuda.py
 !.gitignore
-
+!DNN/
+!image_recognition
+!neurogenesis
+!NLP
+!pose_estimation

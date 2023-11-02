@@ -5,3 +5,4 @@
 1. NLP : 自然言語処理のものです。これは興味があれば進める
 1. pose_estimation : PoseEstimationについてのモデルを格納する。野球の姿勢推定に活かせればいいなと。
 1. neurogenesis : neurogenesisモデルのものを格納していく
+1. graph_neuralnetwork : GNNのモデルを格納していく

@@ -4,8 +4,8 @@ matplotlib
 pytorch
 optuna
 einops
-sklearn 
-
+sklearn
+torch_geometric : これはcondaのHP通りに入れてはダメで、torchの公式のもので入れないといけない
 timm  code : conda install -c conda-forge timm
 
-何もconda環境で構築
+condaで環境を構築しています
